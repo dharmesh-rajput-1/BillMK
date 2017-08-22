@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Daily Money Spent</string>
+    <string name="avalable_balance">Available balance</string>
+    <string name="spent_money">Spent Money</string>
+    <string name="add_money">Add Money</string>
+    <string name="added">Added</string>
+    <string name="spented">Spented</string>
+    <string name="value">Value</string>
+    <string name="add_value">Add</string>
+    <string name="reason">Reason</string>
+    <string name="spent">Spent</string>
+
+    <string-array name="add_array">
+        <item>Salary</item>
+        <item>Relative</item>
+        <item>sell</item>
+        <item>other</item>
+    </string-array>
+
+    <string-array name="spent_array">
+        <item>Electronic</item>
+        <item>Food</item>
+        <item>Cloths</item>
+        <item>Grocery</item>
+        <item>Bills</item>
+        <item>Others</item>
+    </string-array>
+
+</resources>
